@@ -4,3 +4,5 @@ List Learning Aldi
 -Belajar React Nativ
 -Belajar Dark
 -Belajar Flutter
+-Membuat Aplikasi Website
+-Mebuat Aplikasi Mobile
