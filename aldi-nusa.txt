@@ -6,3 +6,5 @@ List Learning Aldi
 -Belajar Flutter
 -Membuat Aplikasi Website
 -Mebuat Aplikasi Mobile
+-Membuat konten HTML
+-Membuat Konten Javascript
